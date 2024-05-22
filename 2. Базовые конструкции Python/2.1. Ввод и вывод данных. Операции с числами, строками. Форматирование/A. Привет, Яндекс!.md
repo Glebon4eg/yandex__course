@@ -10,7 +10,9 @@
 
 <details>
   <summary>Решение</summary>
+  
   ```python
   print("Привет, Яндекс!")
   ```
+
 </details>
