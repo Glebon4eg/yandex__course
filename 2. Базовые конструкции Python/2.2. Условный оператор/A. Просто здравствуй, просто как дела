@@ -1,0 +1,7 @@
+name = str(input("Как Вас зовут?\n"))
+state = str(input(f"Здравствуйте, {name}!\n"
+                  f"Как дела?\n"))
+if state == "хорошо":
+    print(f"Я за вас рада!")
+elif state == "плохо":
+    print(f"Всё наладится!")
